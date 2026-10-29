@@ -27,7 +27,7 @@ One-time setup, under the repository's **Settings → Secrets and variables → 
 
 | Kind | Name | Value |
 |---|---|---|
-| Variable | `AVERTO_API_URL` | The live website, e.g. `https://averto.in` (no slash at the end) |
+| Variable | `AVERTO_API_URL` | The live website, e.g. `https://avertofurniture.com` (no slash at the end) |
 | Secret | `KEYSTORE_BASE64` | The signing key file, base64-encoded |
 | Secret | `KEYSTORE_PASSWORD` | The key file's password |
 | Secret | `KEY_ALIAS` | The key's alias |

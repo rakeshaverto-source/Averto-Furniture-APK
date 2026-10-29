@@ -35,7 +35,7 @@
       "./plugins/withReleaseSigning"
     ],
     "extra": {
-      "apiUrl": "https://YOUR-WEBSITE.com"
+      "apiUrl": "https://avertofurniture.com"
     }
   }
 }
